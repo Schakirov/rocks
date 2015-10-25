@@ -2,14 +2,14 @@ package = "cunn"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/torch/cunn.git",
+   url = "git://github.com/Schakirov/cunn.git",
 }
 
 description = {
    summary = "Torch CUDA Neural Network Implementation",
    detailed = [[
    ]],
-   homepage = "https://github.com/torch/cunn",
+   homepage = "https://github.com/Schakirov/cunn",
    license = "BSD"
 }
 
